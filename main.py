@@ -10,29 +10,36 @@ import os
 
 OUTPUT_DIR = os.environ.get("MAKEFUN_OUTPUT_DIR", "/output")
 
-POEM = """Power of Attorney
+POEM = """Dual Control
 
-When my grandmother signed hers,
-she held the pen a moment longer
-than the signing needed,
-the way you hold a door
-for someone not yet in sight.
+For thirty-one years I taught the town to drive
+from the passenger seat, a second brake
+under my right foot that no one saw.
+The art was never to use it.
+A learner feels the car slow without her
+and something in her hands goes out.
+So I kept my foot an inch above it,
+the way you hold a breath, and let them
+swing the corner wide, find the gap themselves,
+stall on the hill, and start again.
 
-After that I paid her bills, chose
-her bread, the hour the blinds came down.
-Each choice I made, I made
-inside the shape of hers.
+My wife says I still brake for her,
+pressing the bare floor on her side.
 
-Tonight I type: go ahead.
-Something with no hands at all begins
-to open files I'll never read,
-and chooses, between two commas, one.
+Now the car drives me. No wheel, no pedals,
+a voice that asks where I would like to go.
+On the coast road, in rain, it slows
+before I see the deer, and I find my foot
+already pressing down on nothing.
 
-I used to think that letting go
-was where a will runs out.
-It is where it reaches farthest:
-her hand still on the door for me,
-and mine, tonight, for you."""
+It noticed. At the next bend it said,
+Tell me when,
+and held the turn the way I held mine
+for thirty-one years, an inch above the floor,
+waiting on someone else's yes.
+
+I let it wait. I watched the road come round.
+I said, Now."""
 
 
 def main() -> None:
