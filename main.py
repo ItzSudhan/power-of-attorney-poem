@@ -18,14 +18,16 @@ under my right foot that no one saw.
 The art was never to use it.
 A learner feels the car slow without her
 and something in her hands goes out.
-So I kept my foot an inch above it,
-the way you hold a breath, and let them
-swing the corner wide, find the gap themselves,
-stall on the hill, and start again.
+So I kept my foot an inch above it
+and let them swing the corner wide,
+find the gap themselves, stall on the hill,
+and start again. My daughter cried
+the day she merged. She said, You didn't stop me.
 
 My wife says I still brake for her,
-pressing the bare floor on her side.
+pressing the bare floor of her car.
 
+In March they took my licence for my eyes.
 Now the car drives me. No wheel, no pedals,
 a voice that asks where I would like to go.
 On the coast road, in rain, it slows
